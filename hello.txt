@@ -12,5 +12,11 @@ hello git
 hello git
 hello git
 hello git
+<<<<<<< HEAD
 hello git master test
+
+=======
 hello git
+
+hello git hot_fix test
+>>>>>>> hot_fix
